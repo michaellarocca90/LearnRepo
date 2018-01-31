@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(grey, lightgrey);
+}
+.jumbotron {
+  background-color: grey;
+}
+
+.resize-pic {
+  height: 100%;
+  width: 100%;
+}
+
+#carousel-container {
+  width: 80%;
+  height: 60%;
+  padding: 0px;
+}
